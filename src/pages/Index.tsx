@@ -14,7 +14,7 @@ const Index = () => {
       <ContactSection />
       <footer className="py-8 border-t border-border/50">
         <p className="text-center text-muted-foreground text-sm">
-          © 2026 Afif Alfarisi Hernas. Dibuat dengan ❤️
+          © 2026 Afif Alfarisi Hernas. 
         </p>
       </footer>
     </div>
