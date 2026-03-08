@@ -15,7 +15,7 @@ const skills = [
   {
     icon: ShoppingBag,
     title: "Baba Parfum",
-    desc: "Founder & owner bisnis parfum, wirausaha muda",
+    desc: "Distributor resmi bisnis baba parfum, wirausaha muda",
   },
   {
     icon: Brain,
